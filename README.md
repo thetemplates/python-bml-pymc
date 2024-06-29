@@ -1,2 +1,1 @@
-# python-bayesian-modelling
-Bayesian Modelling via PyMC
+Python Bayesian Machine Learning via PyMC
