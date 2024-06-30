@@ -1,6 +1,20 @@
-Python Bayesian Machine Learning via PyMC
+<br>
 
+**Python Bayesian Machine Learning via PyMC**
 
+<br>
+
+* [Environments](#environments)
+  * [Remote Development](#remote-development)
+  * [Remote Development & Integrated Development Environments](#remote-development--integrated-development-environments)
+* [Code Analysis](#code-analysis)
+  * [pylint](#pylint)
+  * [pytest & pytest coverage](#pytest--pytest-coverage)
+  * [flake8](#flake8)
+* [References](#references)
+
+<br>
+<br>
 
 
 ## Environments
