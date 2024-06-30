@@ -142,11 +142,13 @@ The `.pylintrc` file of this template project has been **amended to adhere to te
 > * pytest --cov-report term-missing  --cov src/data/... tests/data/...
 > 
 
-Test a program via
+Within a remote environment conduct apply/conduct a pytest via
 
 ```shell
 python -m pytest ...
 ```
+
+Replace the ellipses with, e.g., a file name.
 
 
 <br>
